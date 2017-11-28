@@ -52,7 +52,7 @@ img {
 	margin-top: 40%;
 }
 
-
+/* primer gato - atardecer*/
 @media (min-width: 576px) and (max-width: 767px) {
   body {
     background-image: url(../images/dawn.png);
@@ -69,6 +69,8 @@ img {
   }
 }
 
+/*segundo gato - noche*/
+
 @media (min-width: 768px) and (max-width: 991px) {
   body {
     background-image:url(../images/night.jpg);
@@ -84,6 +86,8 @@ img {
 		display: none;
 	}
 }
+
+/*tercer gato - dia*/
 
 @media (min-width: 992px) and (max-width: 1199px) {
   body {
